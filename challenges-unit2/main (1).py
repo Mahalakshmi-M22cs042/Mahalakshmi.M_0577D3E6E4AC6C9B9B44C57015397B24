@@ -15,7 +15,6 @@ class Bowler(Player):
     print("The bowler is bowling.")
 
 #create the instances of Batsman and Bowler classes:
-player=Player()
 batsman=Batsman()
 bowler=Bowler()
 
